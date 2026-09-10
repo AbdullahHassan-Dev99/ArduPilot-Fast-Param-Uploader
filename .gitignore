@@ -1,0 +1,26 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+venv/
+ENV/
+
+# Build & Dist
+build/
+dist/
+*.spec
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# User data & logs
+*.param
+*.params
+*.json
+failed_params.txt
